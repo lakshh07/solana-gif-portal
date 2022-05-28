@@ -1,2 +1,9 @@
 node_modules
 .DS_STORE
+.env
+/solana program/.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
